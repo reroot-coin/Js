@@ -1,0 +1,46 @@
+{
+    "articles": [
+        {
+            "title": "Healthy Eating",
+            "description": "A balanced diet provides the nutrients needed for good health.",
+            "ways_to_achieve": [
+            "Eat more fruits and vegetables",
+            "Choose whole grains",
+            "Limit sugary and processed foods"
+            ],
+            "benefits": [
+            "Improves energy",
+            "Supports immunity",
+            "Helps maintain a healthy weight"
+            ]
+        },
+        {
+            "title": "Regular Physical Activity",
+            "description": "Regular exercise helps keep the body strong and reduces the risk of many diseases.",
+            "ways_to_achieve": [
+            "Walk for 30 minutes daily",
+            "Practice sports regularly",
+            "Take the stairs instead of the elevator"
+            ],
+            "benefits": [
+            "Strengthens the heart",
+            "Improves fitness",
+            "Reduces stress"
+            ]
+        },
+        {
+            "title": "Good Sleep",
+            "description": "Getting enough quality sleep is essential for physical and mental well-being.",
+            "ways_to_achieve": [
+            "Maintain a regular sleep schedule",
+            "Avoid screens before bedtime",
+            "Create a quiet and comfortable bedroom"
+            ],
+            "benefits": [
+            "Improves concentration",
+            "Boosts energy",
+            "Supports mental health"
+            ]
+        }
+    ]
+}
